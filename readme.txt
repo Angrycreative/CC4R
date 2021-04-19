@@ -1,10 +1,10 @@
 === Country Caching For WP Rocket ===
-Contributors: wrigs1, senlin
+Contributors: wrigs1, senlin, angrycreative
 Tags: caching, WP Rocket, Rocket Cache, country, GeoIP, Maxmind, geolocation, cache
 Requires at least: 4.1
 Tested up to: 5.0.3
 Requires PHP: 5.4 or later
-Stable tag: trunk
+Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,11 +34,11 @@ If you use Cloudflare and have "switched on" their GeoLocation option ( see [Clo
 
 == Credits ==
 
-Many thanks to Pieter Bos ( https://bohanintl.com/  github: https://github.com/senlin/ , wordpress.org: https://profiles.wordpress.org/senlin/) for i18n internationalisation work on this plugin. 
+Many thanks to Pieter Bos ( https://bohanintl.com/  github: https://github.com/senlin/ , wordpress.org: https://profiles.wordpress.org/senlin/) for i18n internationalisation work on this plugin.
 
 == ADVICE ==
 
-I don't recommend you use ANY Caching plugin UNLESS you know how to use an FTP program (e.g. Filezilla). Caching plugins can cause "white screen" problems for some users. 
+I don't recommend you use ANY Caching plugin UNLESS you know how to use an FTP program (e.g. Filezilla). Caching plugins can cause "white screen" problems for some users.
 Sometimes the only solution is to manually delete files using FTP or OS command line.
 
 

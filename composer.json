@@ -1,0 +1,15 @@
+{
+  "name": "angrycreative/cc4r",
+  "description": "Countrybased caching for WP Rocket. Forked from https://github.com/Andy-Wrigley/CC4R",
+  "keywords": ["WordPress", "WP-rocket"],
+  "homepage": "https://github.com/Angrycreative/CC4R",
+	"license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Angry Creative AB",
+      "email": "hej@angrycreative.se",
+      "homepage": "https://angrycreative.se"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
